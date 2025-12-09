@@ -1,16 +1,34 @@
-## Hi there 👋
+##  Salut, moi c’est Jaurès
 
-<!--
-**jauresmas/Jauresmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon GitHub !  
+Ici, je vais partager mes projets autour du **SIG**, du **webmapping**, du **SQL/PostGIS**, de la **création de données**, de **Python**, de la **data science** et de l’**IA appliquée au spatial**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  À propos de moi  
+Développeur Géospatial et Passionné de SIG.
+
+Passionné par les données spatiales, je conçois et explore des solutions autour de :
+-  SIG (QGIS, ArcGIS, analyses spatiales)  
+-  SQL / PostGIS et structuration de données  
+-  Webmapping (OpenLayers, Leaflet, mViewer, Lizmap)  
+-  Python pour l’automatisation et le traitement de données  
+-  Data Science & IA appliquée au géospatial  
+
+Mon objectif : transformer des données brutes en cartes claires, outils utiles et visualisations intelligentes.
+
+---
+
+###  Projets récents  
+- Développement d'applications web cartographiques dynamiques  
+- Intégration de données via PostgreSQL/PostGIS  
+- Analyse spatiale et production cartographique environnementale  
+- Webmapping interactif avec animations temporelles  
+- Automatisation géospatiale avec Python  
+
+---
+
+###  Me contacter  
+- Email : **jauresmas10@gmail.com**  
+- LinkedIn : **www.linkedin.com/in/jaurès-daa-hingbanon-aa8a7517a**
+
