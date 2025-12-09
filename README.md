@@ -1,7 +1,7 @@
 ##  Salut, moi c’est Jaurès
 
 Bienvenue sur mon GitHub !  
-Ici, je vais partager mes projets et mes apprentissage autour du **SIG**, du **webmapping**, du **SQL/PostGIS**, de la **création de données**, de **Python**, de la **data science** et de l’**IA appliquée au spatial**.
+Ici, je vais partager mes projets et mes apprentissages autour du **SIG**, du **webmapping**, du **SQL/PostGIS**, de la **création de données**, de **Python**, de la **data science** et de l’**IA appliquée au spatial**.
 
 ---
 
